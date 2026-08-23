@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aayoubmsa.github.io/ahmed-ayoub-portfolio/sitemap.xml
