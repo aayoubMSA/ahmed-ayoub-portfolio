@@ -2,6 +2,14 @@
 
 Public academic and research portfolio for Dr. Ahmed Ayoub, Assistant Professor of Computer Engineering at MSA University, Egypt.
 
+**Live site:** https://aayoubmsa.github.io/ahmed-ayoub-portfolio/
+
+## Academic identity
+- Google Scholar: https://scholar.google.com/citations?user=xIUPsc8AAAAJ&hl=en
+- ORCID: https://orcid.org/0009-0004-7895-3191
+- LinkedIn: https://www.linkedin.com/in/dr-ahmed-ayoub/
+- IEEE Xplore: https://ieeexplore.ieee.org/author/436556479741036
+
 ## Public sections
 - Research
 - Selected research evidence pages
